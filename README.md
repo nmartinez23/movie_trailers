@@ -2,7 +2,7 @@
 
 ## Fresh Tomatoes movie trailer app built with Python and Javascript.
 
-http://www.movietrailers.getforge.io
+http://movietrailers.getforge.io
 
 You can clone, fork or download the Zip file and then open the index.html file in your browser to view and interact with the website. You can click on one of the movie poster images and the Youtube movie trailer will then pop up and play for you.
 
