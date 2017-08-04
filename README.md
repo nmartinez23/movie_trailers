@@ -1,4 +1,4 @@
-# Udacity Movie Trailer Website Project
+# Movie Trailer Website Project
 
 Fresh Tomatoes movie trailer app built with Python and Javascript. You can click on one of the movie poster images and the Youtube movie trailer will then pop up and play for you.
 
